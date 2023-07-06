@@ -1,0 +1,9 @@
+canvas {
+  display: block;
+  margin: 0 auto;
+}
+.container {
+  display: block;
+  /* gap: 24px; */
+  text-align: center;
+}
